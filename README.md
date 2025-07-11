@@ -14,6 +14,7 @@ Directional arrow keys, 4 Macro keys, 1 Knob, Display
 
 ## Keyboard Specs
 ### Keycaps/Switches
+https://hirosarts.com/blog/keycap-dimensions-guide-for-beginners/?srsltid=AfmBOoqFAn7m0XP5UFBrCiC00yMLdIinkfjyP8Adn-44h1oWgLyK09f7
 Dimensions in mm represent a 1u key
 - Keycap and Switch Sizes
   - <img width="602" height="445" alt="image" src="https://github.com/user-attachments/assets/2c711862-89b4-419a-87b9-9f07dab497bb" />
