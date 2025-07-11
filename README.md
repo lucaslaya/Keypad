@@ -11,3 +11,8 @@ Directional arrow keys, 4 Macro keys, 1 Knob, Display
 ### Connectivity
 - USB-C Breakout Board
 - ESD Protection Diode: TPD2E001
+
+## Keyboard Specs
+### Keycaps/Switches
+<img width="602" height="445" alt="image" src="https://github.com/user-attachments/assets/2c711862-89b4-419a-87b9-9f07dab497bb" />
+
