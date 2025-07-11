@@ -14,5 +14,10 @@ Directional arrow keys, 4 Macro keys, 1 Knob, Display
 
 ## Keyboard Specs
 ### Keycaps/Switches
-<img width="602" height="445" alt="image" src="https://github.com/user-attachments/assets/2c711862-89b4-419a-87b9-9f07dab497bb" />
+Dimensions in mm represent a 1u key
+- Keycap and Switch Sizes
+  - <img width="602" height="445" alt="image" src="https://github.com/user-attachments/assets/2c711862-89b4-419a-87b9-9f07dab497bb" />
+- Key Layout
+  - <img width="312" height="237" alt="image" src="https://github.com/user-attachments/assets/f026c452-637d-4af5-bdcd-ba7828958370" />
+
 
