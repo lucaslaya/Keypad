@@ -4,7 +4,7 @@ Directional arrow keys, 4 Macro keys, 1 Knob, Display
 ## Part Selection
 https://jlcpcb.com/parts
 ### MCU
-- RP2040: Raspberry Pi Pico
+- RP2040: Seeed Studio XIAO RP2040
 ### Input Devices
 - EC-11 Rotary Encoder (with push button)
 ### Display
