@@ -12,6 +12,9 @@ https://jlcpcb.com/parts
 ### Connectivity
 - USB-C Breakout Board
 - ESD Protection Diode: TPD2E001
+### Key switches
+- Cherry MX Red
+- 1N4148 Diodes
 
 ## Keyboard Specs
 ### Keycaps/Switches 
