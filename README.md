@@ -2,6 +2,7 @@
 Directional arrow keys, 4 Macro keys, 1 Knob, Display
 
 ## Part Selection
+https://jlcpcb.com/parts
 ### MCU
 - RP2040: Raspberry Pi Pico
 ### Input Devices
@@ -13,9 +14,9 @@ Directional arrow keys, 4 Macro keys, 1 Knob, Display
 - ESD Protection Diode: TPD2E001
 
 ## Keyboard Specs
-### Keycaps/Switches
+### Keycaps/Switches 
 Dimensions in mm represent a 1u key
-- Keycap and Switch Sizes
+- Keycap and Switch Sizes (https://hirosarts.com/blog/keycap-dimensions-guide-for-beginners/?srsltid=AfmBOoqFAn7m0XP5UFBrCiC00yMLdIinkfjyP8Adn-44h1oWgLyK09f7)
   - <img width="602" height="445" alt="image" src="https://github.com/user-attachments/assets/2c711862-89b4-419a-87b9-9f07dab497bb" />
 - Key Layout
   - <img width="312" height="237" alt="image" src="https://github.com/user-attachments/assets/f026c452-637d-4af5-bdcd-ba7828958370" />
